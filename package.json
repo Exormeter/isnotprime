@@ -1,14 +1,14 @@
 {
   "name": "isnotprime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check to see if a number is not prime",
   "main": "index.js",
   "dependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^7.1.2",
+    "isprime": "0.0.2"
   },
   "devDependencies": {
-    "thousandprimes": "0.0.1",
-    "isprime": "0.0.2"
+    "thousandprimes": "0.0.1"
   },
   "scripts": {
     "test": "mocha test.js"
@@ -22,7 +22,7 @@
     "prime",
     "test"
   ],
-  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "author": "Nils Kirchhof <essometer@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Exormeter/isnotprime/issues"
