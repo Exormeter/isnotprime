@@ -1,4 +1,4 @@
-## isprime
+## isnotprime
 
 Finds if a number is not prime by using the isprime package by TJ Krusinski, which uses the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) algorithm. 
 
