@@ -4,7 +4,7 @@
   "description": "check to see if a number is not prime",
   "main": "index.js",
   "dependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "isprime": "0.0.2"
   },
   "devDependencies": {
